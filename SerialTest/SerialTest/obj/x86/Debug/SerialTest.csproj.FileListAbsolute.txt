@@ -1,0 +1,8 @@
+E:\vsprojects\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+E:\vsprojects\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.Form1.resources
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.Properties.Resources.resources
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.csproj.GenerateResource.Cache
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.exe
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.pdb
+E:\vsprojects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.csprojResolveAssemblyReference.cache
